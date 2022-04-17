@@ -12,6 +12,10 @@ Traffic Light LEDs countdown with 7-segment LED Display controlled by Arduino UN
 
 <img src="https://github.com/pyhoon/traffic-light-7-segment-b4r/raw/main/images/TrafficLight-SevenSegment_schem.png" title="Schematic" />
 
+**YouTube**
+
+[![Alt text](https://img.youtube.com/vi/su5DxeNtTOU/0.jpg)](https://youtu.be/su5DxeNtTOU)
+
 Made with ❤ in B4X
 
 Download and Develop with B4R for FREE: https://www.b4x.com/b4r.html
